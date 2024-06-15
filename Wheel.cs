@@ -2,8 +2,8 @@
 
 internal class Wheel
 {
-    private readonly string m_ManufacturerName;
-    private readonly float r_MaxAirPressureByManufacturer;
+    private string m_ManufacturerName;
+    private float r_MaxAirPressureByManufacturer;
     private float m_CurrentAirPressure;
 
     //CTOR

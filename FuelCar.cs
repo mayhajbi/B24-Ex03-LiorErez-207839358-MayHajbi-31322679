@@ -2,10 +2,9 @@
 
 internal class FuelCar : Vehicle
 {
-    private readonly Enums.ECarColors m_CarColor;
-    private readonly int m_NumberOfDoors;
-  
-
+    private Enums.ECarColors m_CarColor;
+    private int m_NumberOfDoors;
+    
     //METHODS:
 }
 
