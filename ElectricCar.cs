@@ -1,6 +1,6 @@
 ﻿using System;
 
-internal class ElectricCar_cs : Vehicle
+internal class ElectricCar : Vehicle
 {
 
 }
